@@ -1,14 +1,12 @@
 {
-  "name": "developer-blog-starter-code",
+  "name": "nextjs-blog",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "postbuild": "next-sitemap",
     "start": "next start",
-    "lint": "next lint",
-    "deploy": "next build && npx gh-pages -d out"
+    "lint": "next lint"
   },
   "dependencies": {
     "@dotlottie/react-player": "^1.2.1",
