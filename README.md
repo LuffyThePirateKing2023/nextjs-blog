@@ -1,3 +1,4 @@
+
 # Next.js 13 Blog Tutorial: Build SEO Optimized Personal Blog with Next.js, Contentlayer, and Tailwind CSS 🔥
 
 ![GitHub stars](https://img.shields.io/github/stars/LuffyThePirateKing2023/nextjs-blog?style=social&logo=ApacheSpark&label=Stars)&nbsp;&nbsp;
